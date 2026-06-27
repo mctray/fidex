@@ -224,7 +224,7 @@ export default function Contact() {
                       <p className="text-xs sm:text-sm text-gray-600 whitespace-pre-line mb-2 md:mb-3 break-words">{method.details}</p>
                       {method.title === 'Customer Support' && (
                         <a
-                          href="https://wa.link/jbwyyw"
+                          href="https://wa.me/+16623928238"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 px-3 sm:px-4 py-2 bg-green-500 hover:bg-green-600 text-white font-semibold text-xs sm:text-sm rounded-lg transition-all duration-200 transform hover:scale-105 shadow-md"
